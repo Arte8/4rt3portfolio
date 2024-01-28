@@ -7,9 +7,9 @@
                 font-weight: 700;
                 line-height: 26.4px;
                 padding-bottom: 50px;
-                -webkit-text-stroke-width: .01px;
-                -webkit-text-stroke-color: #b30909;
-                color: #b30909;
+                -webkit-text-stroke-width: .05px;
+                -webkit-text-stroke-color: black;
+                color: black;
             }
             
             .center {
